@@ -1,3 +1,15 @@
+# **PROVENANCE NOTICE**
+
+---
+
+**Source Repository and Reference Commit:**  
+https://github.com/TimurMP/26-react-star-wars-hooks/commit/46ceac3d54658c90dd46c643ec78241ef2bb35af
+
+**Note:**  
+To comply with double-blind review requirements, this fork’s commit history was anonymized. The transformed and instrumented codes included in this repository were produced from this reference commit.
+
+---
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
